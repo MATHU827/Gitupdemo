@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="50" started-at="2020-02-17T08:25:00Z" finished-at="2020-02-17T08:25:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="50" started-at="2020-02-17T08:25:00Z" finished-at="2020-02-17T08:25:00Z">
+      <class name="Training.TestngDemo$paralleltestcase">
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:Training.TestngDemo$paralleltestcase@7a92922]" name="testcase1" duration-ms="15" started-at="2020-02-17T13:55:00Z" finished-at="2020-02-17T13:55:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method status="PASS" signature="testcase2()[pri:0, instance:Training.TestngDemo$paralleltestcase@7a92922]" name="testcase2" duration-ms="1" started-at="2020-02-17T13:55:00Z" finished-at="2020-02-17T13:55:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+        <test-method status="PASS" signature="testcase3()[pri:0, instance:Training.TestngDemo$paralleltestcase@7a92922]" name="testcase3" duration-ms="1" started-at="2020-02-17T13:55:00Z" finished-at="2020-02-17T13:55:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase3 -->
+      </class> <!-- Training.TestngDemo$paralleltestcase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
