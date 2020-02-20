@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="49782" started-at="2020-02-19T11:51:07Z" finished-at="2020-02-19T11:51:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="49782" started-at="2020-02-19T11:51:07Z" finished-at="2020-02-19T11:51:56Z">
+      <class name="TestCases.Linkedin_testcase">
+        <test-method status="PASS" signature="Startup()[pri:0, instance:TestCases.Linkedin_testcase@61dc03ce]" name="Startup" is-config="true" duration-ms="37120" started-at="2020-02-19T17:21:07Z" finished-at="2020-02-19T17:21:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Startup -->
+        <test-method status="PASS" signature="login()[pri:0, instance:TestCases.Linkedin_testcase@61dc03ce]" name="login" duration-ms="7109" started-at="2020-02-19T17:21:44Z" finished-at="2020-02-19T17:21:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="close()[pri:0, instance:TestCases.Linkedin_testcase@61dc03ce]" name="close" is-config="true" duration-ms="5519" started-at="2020-02-19T17:21:51Z" finished-at="2020-02-19T17:21:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestCases.Linkedin_testcase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
