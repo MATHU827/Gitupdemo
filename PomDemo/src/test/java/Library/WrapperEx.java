@@ -10,8 +10,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class WrapperEx {
 protected WebDriver driver;
-	
-	public void launchApplication(String browser, String url) {
+		public void launchApplication(String browser, String url) {
 		
 		try {
 			if (browser.equalsIgnoreCase("firefox")) {
@@ -33,8 +32,7 @@ protected WebDriver driver;
 	
 	}
    public void quit(){
-		
-		driver.close();
+	driver.close();
 		
    }
 }
